@@ -30,7 +30,7 @@ If none of these times for for you, please don't hesitate to reach out via email
     git clone https://github.com/pitt-sci-cmpinf0010/week-4.git
     ```
     - If you can't seem to paste anything, try using Ctrl+Shift+V (or Command+Shift+V)
-6. You should see a new folder named `week-3` inside your class folder
+6. You should see a new folder named `week-4` inside your class folder
 
 ### If JupyterLab _really_ doesn't work for you
 

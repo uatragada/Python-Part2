@@ -21,7 +21,7 @@ If none of these times for for you, please don't hesitate to reach out via email
 
 ## Getting Started Again™
 
-1. 1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
+1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
 2. Go to Modules
 5. Click `Skills Lab Week 4` and click where is says `Click Here!`
 6. JupyterHub should open up to this week's materials!

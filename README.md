@@ -38,7 +38,7 @@ We will use [Canvas](canvas.pitt.edu) to let you upload your labs.
     * On JupyterHub, right click on your exercise notebook on your file browser on the left
     * Click **Download** and save it somewhere
 
-2. Then, go to Canvas to upload you lab.
+2. Then, go to Canvas to upload your lab.
     * In Canvas, click on our class, then Modules
     * Click on the Skills Lab module for this week
     * Click **Submit Assignment** in the top right

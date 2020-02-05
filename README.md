@@ -26,7 +26,13 @@ If none of these times for for you, please don't hesitate to reach out via email
 5. Click `Skills Lab Week 4` and click where is says `Click Here!`
 6. JupyterHub should open up to this week's materials!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/week-4/master?urlpath=lab)
+### If JupyterHub doesn't work for you
+
+Use Binder!
+
+_**Important**:_ Binder does **not** always save your work. If you need to stop working on your lab for more than 30 minutes, you need to **download** your exercises notebook to you computer. Then, you can reupload it again later to continue your work.
+
+Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/week-4/master?urlpath=lab)
 
 ---
 

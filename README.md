@@ -16,7 +16,7 @@ Use Binder!
 
 _**Important**:_ Binder does **not** always save your work. If you need to stop working on your lab for more than 30 minutes, you need to **download** your exercises notebook to you computer. Then, you can reupload it again later to continue your work.
 
-Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/week-4/master?urlpath=lab)
+Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/lab-3/master?urlpath=lab)
 
 ---
 

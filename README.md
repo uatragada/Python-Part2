@@ -24,6 +24,8 @@ Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 
 You can modify `Lab-Exercises.ipynb`. Add your own cells, but don't delete the original problems - this helps us match up your answers to each exercise and check that you did all of the work.
 
+Like all of the other labs, this lab is worth 1 point. However, the last problem on this lab is extra credit. If you complete it, you will get 2 out of 1 points. So you can get up to 200% on this lab.
+
 ## Submitting your lab
 
 We will use [Canvas](canvas.pitt.edu) to let you upload your labs. 

@@ -22,7 +22,7 @@ Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 
 ## Completing the Lab
 
-You can modify `Lab-Exercises.ipynb`. Add your own cells, but don't delete the original problems - this helps us match up your answers to each exercise and check that you did all of the work.
+You can modify `Lab-Exercises.ipynb`. Add your own cells, but don't delete the original problems - this helps us match up your answers to each exercise and check that you did all of the work. Don't forget to rename your lab -> `<pitt username>-Lab-Exercises.ipynb` where the <pitt username> is your username. For example, if my username is abc123, I would rename the lab to `abc123-Lab-Exercises.ipynb`.
 
 Like all of the other labs, this lab is worth 1 point. However, the last problem on this lab is extra credit. If you complete it, you will get 2 out of 1 points. So you can get up to 200% on this lab.
 
